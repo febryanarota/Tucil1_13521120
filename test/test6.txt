@@ -1,5 +1,11 @@
 Kartu:
-K 7 4 6 
+J 7 10 K 
 
-Tidak ada solusi.
-Waktu eksekusi: 0 detik
+Total solusi: 6
+1. (7*(13-11))+10
+2. 10-((11-13)*7)
+3. 10-(7*(11-13))
+4. 10+(7*(13-11))
+5. 10+((13-11)*7)
+6. ((13-11)*7)+10
+Waktu eksekusi: 0.003 detik
