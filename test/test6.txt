@@ -1,0 +1,5 @@
+Kartu:
+K 7 4 6 
+
+Tidak ada solusi.
+Waktu eksekusi: 0 detik

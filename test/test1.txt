@@ -1,0 +1,5 @@
+Kartu:
+6 10 10 J 
+
+Tidak ada solusi.
+Waktu eksekusi: 0.001 detik
